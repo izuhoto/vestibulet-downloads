@@ -1,3 +1,15 @@
+# Vestibulet v1.0.2 2026-07-01
+
+**Fixed ESC key behavior for the temporary shelf**
+
+Fixed an issue where pressing ESC while the temporary shelf was visible during a drag did not dismiss the shelf and instead sent the key event to Finder (often canceling the drag).
+
+- Pressing ESC while the temporary shelf is visible now dismisses only the shelf; the drag continues
+- Works for edge, hold-to-show, and modifier-triggered temporary shelves
+- After dismissing with ESC, the temporary shelf stays hidden for the rest of that drag (resets when you release the mouse button)
+
+*Requires Accessibility permission (System Settings → Privacy & Security → Accessibility).*
+
 # Vestibulet v1.0.1 2026-06-30
 
 **Windows now open on the current workspace (Space)**
