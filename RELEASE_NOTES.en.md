@@ -1,3 +1,10 @@
+# Vestibulet v1.0.1 2026-06-30
+
+**Windows now open on the current workspace (Space)**
+
+- The shelf, Related Items, and Locations windows now appear on the Space you're currently on when reopened, instead of switching back to the Space where they were last closed.
+- Each window's position and size are preserved exactly as before — only the workspace follows you to the active Space.
+
 # Vestibulet v1.0.0 2026-06-30
 
 This is the first release of Vestibulet.
