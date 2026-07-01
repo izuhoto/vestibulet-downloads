@@ -1,3 +1,21 @@
+# Vestibulet v1.0.3 2026-07-01
+
+### Improvements
+
+**Settings window follows the active workspace**
+- The settings window now opens on the currently active desktop (Space), consistent with folder bookmarks, related items, and the main shelf.
+- Window position and size continue to be saved and restored.
+
+**Mini Shelf (egress) default**
+- In Settings → Mini Shelf (egress), **Keyboard egress** is now enabled by default for new installations and when using **Restore defaults**.
+
+**Finder intake behavior (“Notification only”)**
+- Fixed an issue where the shelf window could still appear when **After adding from Finder** was set to **Notification only**.
+- This applies only to Finder-driven intake via:
+  - Finder Service / Quick Action (“Add to Vestibulet Shelf”)
+  - The global shortcut for sending Finder selection to the shelf
+- Intake via temporary shelves (edge drop, mini drop, etc.) is **not** affected and keeps its existing behavior.
+
 # Vestibulet v1.0.2 2026-07-01
 
 **Fixed ESC key behavior for the temporary shelf**
