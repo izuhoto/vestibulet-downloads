@@ -1,3 +1,10 @@
+# Vestibulet v1.0.4 2026-07-02
+
+### Fixes
+
+- **Improved Slack current-item detection** — When a Slack channel is open, the Related Items panel now correctly detects and matches its URL. Release builds also prompt for Accessibility permission when needed.
+- **Per-column tag filtering in Related Items** — Tag filters now apply only to the focused column (Library, Related Items, or Candidates), not all columns at once.
+
 # Vestibulet v1.0.3 2026-07-01
 
 ### Improvements
