@@ -1,3 +1,12 @@
+# Vestibulet v1.0.5 2026-07-03
+
+**Improved tag editing UI**
+
+- Replaced comma-separated tag input with chip-based editing: add and remove tags one at a time
+- Existing tags appear as suggestions you can add with a click
+- Apply tags to multiple selected items at once in Bookmarks and Related Items
+- When multiple items are selected, shared tags are shown together and can be removed from all at once
+
 # Vestibulet v1.0.4 2026-07-02
 
 ### Fixes
