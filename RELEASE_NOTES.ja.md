@@ -1,3 +1,13 @@
+# Vestibulet v1.0.6 2026-07-07
+
+### New
+- **Double-click** or right-click **Execute** to open items in the Related Items and Bookmark windows
+- Right-click **Copy Path** / **Copy Link** now support multiple checked items
+
+### Target selection
+- Checked items → all checked
+- No checks → clicked row only
+
 # Vestibulet v1.0.5 2026-07-03
 
 **タグの編集UIを改善**
