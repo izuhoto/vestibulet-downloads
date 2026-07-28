@@ -1,3 +1,16 @@
+# Vestibulet v1.0.7 2026-07-29
+
+This release improves the window behavior after opening items from Folder Bookmarks and Related Items.
+
+#### Changes
+
+- Folder Bookmarks and Related Items now close their window after the normal Open action succeeds for all selected items.
+- Hold `Shift` while opening to keep the window open.
+- In Folder Bookmarks, `⌘O` / `Return` opens and closes, while `⇧⌘O` / `⇧Return` opens and keeps the window.
+- In Related Items, `⌘O` opens and closes, while `⇧⌘O` opens and keeps the window.
+- The same behavior now applies to Open buttons, double-click actions, and context menu actions.
+- Added menu items, shortcut hints, and tooltips for the “keep window open” flow.
+
 # Vestibulet v1.0.6 2026-07-07
 
 ### 新機能
