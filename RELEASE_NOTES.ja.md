@@ -1,3 +1,12 @@
+# Vestibulet v1.0.8 2026-07-29
+
+シェルフを複数のデスクトップ（Space）で使いやすくし、ミニシェルフ（搬出）のグループ表示を改善しました。
+
+#### 変更点
+
+- シェルフウィンドウを開いている間、すべてのワークスペースに表示されるようになりました。Space を切り替えなくても投入・搬出できます。
+- ミニシェルフ（搬出）でグループを表示するとき、グループ名に加えて、中の項目名を表示可能な範囲で一覧表示するようになりました（件数が多い場合は「ほかN件」）。
+
 # Vestibulet v1.0.7 2026-07-29
 
 フォルダブックマークと関連項目ウィンドウで、項目を外部アプリで開いた後のウィンドウ挙動を改善しました。
@@ -13,13 +22,13 @@
 
 # Vestibulet v1.0.6 2026-07-07
 
-### New
-- **Double-click** or right-click **Execute** to open items in the Related Items and Bookmark windows
-- Right-click **Copy Path** / **Copy Link** now support multiple checked items
+### 新機能
+- 関連項目ウィンドウ・Bookmarkウィンドウで、**ダブルクリック**または右クリックの**「実行」**でアイテムを開けるようになりました
+- 右クリックの**「パスをコピー」「リンクをコピー」**も、チェックした複数アイテムをまとめて対象にできます
 
-### Target selection
-- Checked items → all checked
-- No checks → clicked row only
+### 対象の決め方
+- チェックあり → チェックしたものすべて
+- チェックなし → クリックした行のみ
 
 # Vestibulet v1.0.5 2026-07-03
 

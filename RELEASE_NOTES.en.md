@@ -1,3 +1,12 @@
+# Vestibulet v1.0.8 2026-07-29
+
+This release makes the shelf easier to use across multiple desktops (Spaces) and improves how groups appear in Mini Shelf (egress).
+
+#### Changes
+
+- While the shelf window is open, it now appears on all workspaces, so you can drop items in or out without switching Spaces.
+- In Mini Shelf (egress), group rows now show child item names within the available space, in addition to the group name (with “+N more” when there are too many to list).
+
 # Vestibulet v1.0.7 2026-07-29
 
 This release improves the window behavior after opening items from Folder Bookmarks and Related Items.
@@ -13,13 +22,13 @@ This release improves the window behavior after opening items from Folder Bookma
 
 # Vestibulet v1.0.6 2026-07-07
 
-### 新機能
-- 関連項目ウィンドウ・Bookmarkウィンドウで、**ダブルクリック**または右クリックの**「実行」**でアイテムを開けるようになりました
-- 右クリックの**「パスをコピー」「リンクをコピー」**も、チェックした複数アイテムをまとめて対象にできます
+### New
+- **Double-click** or right-click **Execute** to open items in the Related Items and Bookmark windows
+- Right-click **Copy Path** / **Copy Link** now support multiple checked items
 
-### 対象の決め方
-- チェックあり → チェックしたものすべて
-- チェックなし → クリックした行のみ
+### Target selection
+- Checked items → all checked
+- No checks → clicked row only
 
 # Vestibulet v1.0.5 2026-07-03
 
