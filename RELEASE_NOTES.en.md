@@ -1,3 +1,12 @@
+# Vestibulet v1.0.9 2026-07-29
+
+This release makes the shelf easier to keep in reach while you work by letting it stay above normal windows.
+
+#### Changes
+
+- The shelf window now appears above normal windows by default.
+- Added a toolbar pin button to turn the shelf's always-on-top behavior on or off. The setting is saved for future launches.
+
 # Vestibulet v1.0.8 2026-07-29
 
 This release makes the shelf easier to use across multiple desktops (Spaces) and improves how groups appear in Mini Shelf (egress).
