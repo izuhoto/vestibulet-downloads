@@ -1,3 +1,16 @@
+# Vestibulet v1.0.10 2026-08-08
+
+This release makes temporary shelves and Mini Shelf more reliable during drag workflows, especially when moving across Spaces or canceling drags with ESC.
+
+#### Changes
+
+- Fixed cases where edge and cursor-near temporary shelves could stop appearing after switching workspaces (Spaces) or after the app had been hidden.
+- When the cursor-near temporary shelf is visible and you move to the screen edge, Vestibulet now switches to the edge shelf and restores the cursor-near shelf after you leave the edge.
+- After dismissing a temporary shelf with ESC, pressing ESC again now reaches the source app so the current drag can be canceled.
+- If Vestibulet is brought to the front unexpectedly during a drag, it now restores focus to the original app so ESC-based drag cancellation still works.
+- When dragging items out of the main shelf leaves it empty, the shelf window now closes automatically. It stays open when items remain or the drag is canceled.
+- Window presentation commands now unhide Vestibulet when needed, so the shelf, Related Items, Folder Bookmarks, Settings, About and guide windows, and Quick Look previews can appear after the app was hidden.
+
 # Vestibulet v1.0.9 2026-07-29
 
 This release makes the shelf easier to keep in reach while you work by letting it stay above normal windows.
