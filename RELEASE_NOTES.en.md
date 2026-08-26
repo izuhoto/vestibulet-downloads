@@ -1,3 +1,12 @@
+# Vestibulet v1.0.11 2026-08-26
+
+This release makes temporary shelves and Mini Shelf more reliable across workspaces, so they open where you are instead of getting stuck on another desktop.
+
+#### Changes
+
+- Fixed a case where edge and cursor-near temporary shelves could appear only on one workspace.
+- Fixed a case where opening Mini Shelf could unexpectedly switch you back to a previous workspace.
+
 # Vestibulet v1.0.10 2026-08-08
 
 This release makes temporary shelves and Mini Shelf more reliable during drag workflows, especially when moving across Spaces or canceling drags with ESC.
