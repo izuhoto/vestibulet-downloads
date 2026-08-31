@@ -1,3 +1,12 @@
+# Vestibulet v1.0.12 2026-08-31
+
+This release fixes file additions from Terminal so files are found correctly after they appear on the shelf.
+
+#### Changes
+
+- Fixed a case where files added from Terminal could show as missing on the shelf even though they existed.
+- File locations typed from the folder you are working in, including `~` home-folder shortcuts and `./` prefixes, now point to the expected file.
+
 # Vestibulet v1.0.11 2026-08-26
 
 This release makes temporary shelves and Mini Shelf more reliable across workspaces, so they open where you are instead of getting stuck on another desktop.
