@@ -1,3 +1,13 @@
+# Vestibulet v1.0.13 2026-09-23
+
+This release adds File Search, so you can find files and folders by conditions and send results straight to the shelf or open them in place.
+
+#### Changes
+
+- Added File Search from the menu bar, the shelf toolbar, and a keyboard shortcut.
+- Search inside chosen folders, exclude folders, and filter by name, text, kind, date created, date modified, and date last used.
+- Window and Quick Look commands now bring Vestibulet back to the front more consistently.
+
 # Vestibulet v1.0.12 2026-08-31
 
 This release fixes file additions from Terminal so files are found correctly after they appear on the shelf.
