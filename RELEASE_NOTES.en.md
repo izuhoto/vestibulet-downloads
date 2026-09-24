@@ -1,3 +1,18 @@
+# Vestibulet v1.0.14 2026-09-24
+
+This release makes saved File Search conditions and search results easier to organize, and lets you choose how copied paths from search results are formatted.
+
+#### Changes
+
+- Saved File Search conditions can now be renamed in place.
+- Saved File Search conditions can now be reordered by dragging them or using the menu.
+- Search result columns can now be reordered by dragging them or using the menu.
+- Search result column widths can now be adjusted by dragging, and double-clicking a divider fits the column to its contents.
+- When a search result name or location is long, hovering over it now makes the full text easier to check.
+- Copy Path in File Search results now lets you choose the path format that fits your use.
+- Paths that include Japanese file or folder names now copy in a form that works more smoothly when pasted into Terminal and other tools.
+- Renaming a saved condition no longer switches away from the search conditions you are currently editing.
+
 # Vestibulet v1.0.13 2026-09-23
 
 This release adds File Search, so you can find files and folders by conditions and send results straight to the shelf or open them in place.
