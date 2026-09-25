@@ -1,3 +1,11 @@
+# Vestibulet v1.0.15 2026-09-25
+
+This release makes opening items from File Search results feel more natural.
+
+#### Changes
+
+- File Search results can now be opened by double-clicking an item.
+
 # Vestibulet v1.0.14 2026-09-24
 
 This release makes saved File Search conditions and search results easier to organize, and lets you choose how copied paths from search results are formatted.
