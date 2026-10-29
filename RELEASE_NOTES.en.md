@@ -1,3 +1,14 @@
+# Vestibulet v1.0.16 2026-10-30
+
+This release adds a dual-pane filer so you can move between folders, tidy files, and compare folders more easily. File Search also gets a small usability improvement.
+
+#### Changes
+
+- You can open a dual-pane filer from the menu or a keyboard shortcut.
+- Jump quickly from the sidebar to common places, favorites, and connected disks.
+- Compare two folders in a dedicated window, or review differences between two files.
+- Find names in the current list, narrow what is shown, and apply common filters from presets.
+
 # Vestibulet v1.0.15 2026-09-25
 
 This release makes opening items from File Search results feel more natural.
