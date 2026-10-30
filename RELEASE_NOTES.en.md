@@ -1,3 +1,14 @@
+# Vestibulet v1.0.17 2026-10-30
+
+This release improves filer favorites and date sorting, makes folder shortcuts easier to open, and brings more filer-like controls to File Search.
+
+#### Changes
+
+- Filer favorites can now have alternate names that make them easier to find when jumping to a location.
+- When sorting by date modified or date created, you can keep folders grouped first or mix folders and files in one list.
+- In File Search, saved search conditions are quicker to pick, and you can edit each condition’s name and search alias more easily.
+- File Search results now support more filer-like moves, finding names in the list, and viewing a shortcut help sheet.
+
 # Vestibulet v1.0.16 2026-10-30
 
 This release adds a dual-pane filer so you can move between folders, tidy files, and compare folders more easily. File Search also gets a small usability improvement.
