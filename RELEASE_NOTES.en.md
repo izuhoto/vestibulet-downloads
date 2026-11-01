@@ -1,3 +1,14 @@
+# Vestibulet v1.0.18 2026-11-01
+
+This release makes it easier to open files and folders with the app you want, improves everyday filer workflows, and lets you carry settings to another Mac.
+
+#### Changes
+
+- You can open items with a preset rule, or choose an app on the spot.
+- The same open flow is available from Finder, and from the context menus in File Search, Bookmarks, and Related Items.
+- You can export your library, filer favorites, shortcuts, and related settings, then import them on another Mac.
+- Related Items and File Search now feel closer to the filer for moving through and selecting items.
+
 # Vestibulet v1.0.17 2026-10-30
 
 This release improves filer favorites and date sorting, makes folder shortcuts easier to open, and brings more filer-like controls to File Search.
