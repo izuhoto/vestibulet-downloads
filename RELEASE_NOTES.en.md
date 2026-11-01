@@ -1,3 +1,16 @@
+# Vestibulet v1.0.19 2026-11-01
+
+This release makes it easier to open items in the filer from Search and Bookmarks, and clarifies tabs and multi-item selection.
+
+#### Changes
+
+- From File Search, Bookmarks, Related Items, and similar places, you can open the selected items in the Vestibulet filer. Files open with that item selected; folders open into that folder.
+- When you open many items in the filer at once, a confirmation appears, and it now shows on the first try.
+- Paths under your home folder are easier to read when you open those locations.
+- When there are many tabs, the tab strip scrolls so the tab you are using stays in view.
+- File Search results now let you check multiple items and act on them together, in the same way as the filer.
+- The filer and File Search now show how many items are currently targeted (selected or checked).
+
 # Vestibulet v1.0.18 2026-11-01
 
 This release makes it easier to open files and folders with the app you want, improves everyday filer workflows, and lets you carry settings to another Mac.
