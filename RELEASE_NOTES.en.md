@@ -1,3 +1,13 @@
+# Vestibulet v1.0.20 2026-11-03
+
+This release makes app-routing shortcuts and window closing feel consistent across Vestibulet windows, and also tightens memory use.
+
+#### Changes
+
+- The shortcuts you used in Finder to open with a rule or choose an app now also work in Vestibulet windows such as the filer, File Search, Bookmarks, and Related Items. If you change the keys in Settings, the same keys apply in both places.
+- You can close the current window with Cmd+Shift+W in any Vestibulet window. Cmd+W still does what it did before on each screen (close a tab or close the window).
+- Memory use for the filer and File Search was revised so it is less likely to keep growing after longer sessions.
+
 # Vestibulet v1.0.19 2026-11-01
 
 This release makes it easier to open items in the filer from Search and Bookmarks, and clarifies tabs and multi-item selection.
