@@ -1,3 +1,16 @@
+# Vestibulet v1.0.21 2026-11-06
+
+This release makes it easier to review files in the current filer folder, and to send selected folders into a new File Search.
+
+#### Changes
+
+- Files in the current folder can now appear as thumbnails under the list, keeping their original shape. Turn them on for the current tab from the Thumbnails checkbox in the toolbar, or with Control+W, then T, and adjust their size there.
+- When you go up to the parent folder, the folder you just left is selected.
+- You can show or hide hidden files by pressing g, then .
+- You can drag several selected items together to copy or move them. Inside the filer, a drop copies and an Option-drop moves. A drop in Finder copies every selected item.
+- Where items cannot be moved to the Trash, you can delete them immediately after a confirmation. This cannot be undone.
+- Selected folders in the filer can be sent to File Search as a new search. Files in the selection are left out, and a search you already have open stays as it is. Use g, then /, the “New Search in File Search” context menu, or Actions.
+
 # Vestibulet v1.0.20 2026-11-03
 
 This release makes app-routing shortcuts and window closing feel consistent across Vestibulet windows, and also tightens memory use.
