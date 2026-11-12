@@ -1,3 +1,13 @@
+# Vestibulet v1.0.22 2026-11-12
+
+This release makes it easier to return to recent folders and files in the filer, save links from a browser, and jump to a typed location.
+
+#### Changes
+
+- You can drop a link from a browser into the filer to save it as an internet location, similar to Finder.
+- Go to Location (g, then s) now includes recent folders and files as well as your usual places. You can switch between showing everything, folder history only, file history only, or places only, resize the window, and see each path in the list.
+- With Shift+Cmd+G, if you enter a file location, the filer opens that file’s folder and selects the file.
+
 # Vestibulet v1.0.21 2026-11-06
 
 This release makes it easier to review files in the current filer folder, and to send selected folders into a new File Search.
