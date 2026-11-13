@@ -1,3 +1,12 @@
+# Vestibulet v1.0.23 2026-11-13
+
+This release makes Go to Location history actions easier to use, and improves checking shortcuts and seeing what each button does.
+
+#### Changes
+
+- In Go to Location (g, then s), you can right-click an item—or use Cmd+Shift+P—to act on that entry: add to favorites or bookmarks, send to the shelf, open in the other pane, remove from history, and more. Removing from history asks for confirmation and uses Cmd+Delete (or Cmd+Forward Delete).
+- The shortcut list in the filer and File Search (?) can be narrowed by typing. Cmd+F or / also focuses the filter field.
+
 # Vestibulet v1.0.22 2026-11-12
 
 This release makes it easier to return to recent folders and files in the filer, save links from a browser, and jump to a typed location.
