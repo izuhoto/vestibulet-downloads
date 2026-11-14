@@ -1,3 +1,13 @@
+# Vestibulet v1.0.24 2026-11-14
+
+This release makes it easier to add items to the shelf or open the filer from the terminal or a URL, including when to show the window and which file ends up selected. The in-app URL guide is updated to match.
+
+#### Changes
+
+- When you add items to the shelf from the terminal, you can pass `--show` to open the shelf window afterward.
+- You can also add to the shelf with a URL, and choose whether to show the window at the same time. There is a URL that only opens the shelf window.
+- When you open the filer from the terminal or a URL with a file path, the filer opens that file’s folder and selects the file. A folder path still opens that folder, as before.
+
 # Vestibulet v1.0.23 2026-11-13
 
 This release makes Go to Location history actions easier to use, and improves checking shortcuts and seeing what each button does.
