@@ -1,3 +1,13 @@
+# Vestibulet v1.0.25 2026-11-17
+
+This release makes date sorting and lists clearer in the filer and File Search when a date is missing.
+
+#### Changes
+
+- When Date Last Opened is empty, the modified date (or the created date if that is also missing) appears in light parentheses and is used for sorting.
+- When Date Modified is empty, the created date appears the same way and is used for sorting.
+- Items with no usable date appear at the end when sorting newest first, and at the start when sorting oldest first.
+
 # Vestibulet v1.0.24 2026-11-14
 
 This release makes it easier to add items to the shelf or open the filer from the terminal or a URL, including when to show the window and which file ends up selected. The in-app URL guide is updated to match.
